@@ -1,0 +1,9 @@
+.banner {
+  padding: 132px 70px 96px 132px;
+}
+.banner-button {
+  padding: 5px 12px;
+  border-radius: 15px;
+  color: black;
+  border: 1px solid #c10303;
+}
