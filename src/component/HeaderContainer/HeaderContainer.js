@@ -5,7 +5,7 @@ import './HeaderCOntainer.css';
 
 const HeaderContainer = () => {
     return (
-        <div className="header-container">
+        <div className="header-container mb-5">
             <Navbar></Navbar>
             <Banner></Banner>
         </div>
