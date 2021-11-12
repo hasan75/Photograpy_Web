@@ -1,11 +1,11 @@
 .header-container {
   position: relative;
-  height: 90vh;
+  height: 100vh;
 }
 .header-container::before {
   content: '';
   background-image: url('../../image/unsplash.png');
-  background-size: cover;
+  background-size: 100% 100%;
   position: absolute;
   top: 0px;
   right: 0px;
@@ -13,11 +13,7 @@
   left: 0px;
   opacity: 0.75;
 }
-.header-container h1,
-h2,
-h3,
-p,
-button {
+.header-container div {
   position: relative;
   color: black;
 }

@@ -1,0 +1,5 @@
+.other-than-image {
+  content: '';
+  height: 50px;
+  display: block;
+}
